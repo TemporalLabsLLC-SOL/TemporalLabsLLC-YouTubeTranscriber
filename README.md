@@ -1,7 +1,6 @@
 # TemporalLabsLLC YouTube Transcriber
 
-[![Donate](https://img.shields.io/badge/Donate-Bitcoin-orange.svg)](bitcoin:YOUR-BITCOIN-WALLET-ADDRESS)
-[![Donate](https://img.shields.io/badge/Donate-Ethereum-blue.svg)](ethereum:YOUR-ETHEREUM-WALLET-ADDRESS)
+
 
 ## Overview
 
@@ -25,7 +24,7 @@ TemporalLabsLLC YouTube Transcriber is an advanced tool designed to convert list
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/TemporalLabsLLC-YouTubeTranscriber.git
+    git clone https://github.com/TemporalLabsLLC-SOL/TemporalLabsLLC-YouTubeTranscriber.git
     cd TemporalLabsLLC-YouTubeTranscriber
     ```
 
@@ -34,6 +33,7 @@ TemporalLabsLLC YouTube Transcriber is an advanced tool designed to convert list
     python -m venv venv
     source venv/bin/activate   # On Windows use `venv\Scripts\activate`
     ```
+Dependencies should install according to your setup but I'm still testing how compatible it is across builds. I kept these for now.
 
 3. Install dependencies:
     ```sh
@@ -59,4 +59,4 @@ If you find this project useful, please consider donating to support further dev
 
 ## Contact
 
-For any inquiries, please contact us at [support@temporallabs.com](mailto:support@temporallabs.com).
+For any inquiries, please contact us at [sol@temporallab.com](mailto:sol@temporallab.com).
