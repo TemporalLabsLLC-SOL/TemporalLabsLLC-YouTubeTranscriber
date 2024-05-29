@@ -4,6 +4,8 @@
 
 TemporalLabsLLC YouTube Transcriber is an advanced tool designed to convert lists of YouTube videos into text data that can be further distilled for a generative AI pipeline. This functionality is crucial for creating insightful information and driving AI models with rich text data.
 
+Finishing up local portability testing now. Release will be on here VERY SOON.
+
 ## Video Guide
 
 There is a teaser demo on YouTube:
