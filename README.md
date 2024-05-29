@@ -1,10 +1,13 @@
 # TemporalLabsLLC YouTube Transcriber
 
-
-
 ## Overview
 
 TemporalLabsLLC YouTube Transcriber is an advanced tool designed to convert lists of YouTube videos into text data that can be further distilled for a generative AI pipeline. This functionality is crucial for creating insightful information and driving AI models with rich text data.
+
+## Video Guide
+
+There is a teaser demo on YouTube:
+[TemporalLabsLLC YouTube Transcriber Tutorial](https://youtu.be/xZ2mBWIlJws?si=pnQMsi0CHGiU91ko)
 
 ## Features
 
@@ -33,6 +36,7 @@ TemporalLabsLLC YouTube Transcriber is an advanced tool designed to convert list
     python -m venv venv
     source venv/bin/activate   # On Windows use `venv\Scripts\activate`
     ```
+
 Dependencies should install according to your setup but I'm still testing how compatible it is across builds. I kept these for now.
 
 3. Install dependencies:
