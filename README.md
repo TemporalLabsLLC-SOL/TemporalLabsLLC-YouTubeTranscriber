@@ -7,7 +7,10 @@ TemporalLabsLLC YouTube Transcriber is an advanced tool designed to convert list
 ## Video Guide
 
 There is a teaser demo on YouTube:
-[TemporalLabsLLC YouTube Transcriber Tutorial](https://youtu.be/xZ2mBWIlJws?si=pnQMsi0CHGiU91ko)
+
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xZ2mBWIlJws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Features
 
@@ -20,7 +23,7 @@ There is a teaser demo on YouTube:
 
 ### Prerequisites
 
-- Python 3.10.9
+- [Python 3.10.9 for Windows](https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe)
 - pip
 
 ### Steps
