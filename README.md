@@ -8,9 +8,9 @@ TemporalLabsLLC YouTube Transcriber is an advanced tool designed to convert list
 
 There is a teaser demo on YouTube:
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/xZ2mBWIlJws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![TemporalLabsLLC YouTube Transcriber Tutorial](https://img.youtube.com/vi/xZ2mBWIlJws/0.jpg)](https://www.youtube.com/watch?v=xZ2mBWIlJws)
+
+Click the image above to watch the tutorial on YouTube.
 
 ## Features
 
